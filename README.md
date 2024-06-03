@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Proyecto planeación del semestre - algoritmos
 
 ![Imagen proyecto](https://github.com/Crudino/Ruta-Trabajo-Final/assets/171174622/50b71aff-c5ab-4ecd-ae65-df25b305b762)
 
