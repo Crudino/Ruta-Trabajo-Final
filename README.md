@@ -12,5 +12,5 @@ Algoritmia y Programación
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT). 
+Este proyecto está bajo la Licencia [MIT](LICENSE). 
 
